@@ -50,7 +50,7 @@ def choose_word():
     """
 
     if True:
-        wordlist = "worderss.txt"
+        wordlist = "words.txt"
     else:
         wordlist = "simple_words.txt"
 
