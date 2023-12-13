@@ -1,0 +1,7 @@
+about
+clear
+blank
+white
+magic
+house
+tests
